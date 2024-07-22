@@ -1,0 +1,22 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "eslint": "^7.30.0",
+    "jest": "^27.0.6"
+  },
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  },
+  "author": "",
+  "license": "ISC"
+}
+
