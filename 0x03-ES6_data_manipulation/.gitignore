@@ -110,8 +110,13 @@ dist
 # Serverless directories
 .serverless/
 
+node_modules/
+
 # FuseBox cache
 .fusebox/
+
+node_modules/
+*.log
 
 # DynamoDB Local files
 .dynamodb/
