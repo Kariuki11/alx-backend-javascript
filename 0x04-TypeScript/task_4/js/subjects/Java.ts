@@ -4,6 +4,7 @@ namespace Subjects {
     }
   
     export class Java extends Subjects.Subject {
+      teacher: any;
       getRequirements(): string {
         return 'Here is the list of requirements for Java';
       }
