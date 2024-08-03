@@ -100,5 +100,3 @@ This configuration tells the TypeScript compiler to target ES5 JavaScript, use C
 ### Conclusion
 
 TypeScript enhances JavaScript by adding type safety and other powerful features, making it a popular choice for large-scale applications and projects where maintainability and early error detection are crucial. It allows developers to write cleaner, more understandable code and leverage modern JavaScript features while maintaining compatibility with a wide range of environments.
-
-TypeScript is a very good language
