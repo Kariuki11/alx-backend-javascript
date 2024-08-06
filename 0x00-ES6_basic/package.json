@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "node 0-constants.js"
   },
   "dependencies": {},
   "devDependencies": {
@@ -17,9 +18,6 @@
     "presets": ["@babel/preset-env"]
   },
   "author": "",
-  "license": "ISC"
-}
-{
+  "license": "ISC",
   "type": "module"
 }
-
