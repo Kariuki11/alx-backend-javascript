@@ -28,4 +28,8 @@
     "request": "^2.88.0",
     "sinon": "^7.5.0"
   }
+  "scripts": {
+  "dev": "nodemon --exec babel-node --presets babel-preset-env ./full_server/server.js ./database.csv"
 }
+}
+
